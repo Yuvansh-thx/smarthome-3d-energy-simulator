@@ -4,17 +4,6 @@ An interactive 3D smart home simulator and real-time household electricity manag
 
 ---
 
-## 🎬 Project Video & Live Demonstration
-
-### 📹 Interactive Simulation Walkthrough
-> Experience the 3D smart home in action — walking through rooms, toggling appliances, adjusting wattage, and monitoring energy analytics in real-time.
-
-![SmartHome 3D Walkthrough](docs/media/smart-home-3d-demo.gif)
-
-▶️ **[Download / Watch High-Definition Video (MP4)](docs/media/smart-home-3d-demo.mp4)**
-
----
-
 ## 📸 Screenshots & Interface Showcase
 
 ### 🏠 1. 3D Architectural Overview
